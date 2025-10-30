@@ -1,20 +1,13 @@
 import csv
 from collections import Counter
-from DataSetSource import create_engine_type_dataset
+from DataSetSource import *
 
 def main():
-    # загрузка датасета
-    dataSet = create_engine_type_dataset()
-
-    labels = [label for _, label in dataSet]
-    label_counts = Counter(labels)
-
-    # анализ распределения классов двигателей
-    for label, count in sorted(label_counts.items()):
-        percentage = count / len(labels)
-        print(f"{label:<12} | {count:>3} | {percentage:>5.1f}%")
-    print("-" * 30)
-    print(f"ИТОГО | {len(dataSet):>3} | 100.0%")
+    dataset: list[tuple[str, str]] = create_engine_type_dataset()
+    print_dataset_class_distribution_levels(dataset)
+    print_has_duplicates(dataset, has_duplicates)
+    save_in_csv(dataset, 'engine_types.csv')
 
 
-
+if __name__ == '__main__':
+    main()

@@ -1,4 +1,8 @@
-from typing import List, Tuple
+import csv
+import os.path
+from collections import Counter
+from typing import List, Tuple, Callable
+
 
 def create_engine_type_dataset() -> List[Tuple[str, str]]:
     dataset = []
@@ -161,3 +165,69 @@ def create_engine_type_dataset() -> List[Tuple[str, str]]:
     for text in unknown_examples:
         dataset.append((text, "неизвестно"))
     return dataset
+
+# написать распределение меток по классам (в количестве).
+def print_dataset_class_distribution_levels(dataset: List[Tuple[str, str]]):
+    datasetLength: int = len(dataset)
+    print(f'Количество данных: {datasetLength}')
+    labels = [label for _, label in dataset]
+    label_counts = Counter(labels)
+    print('-' * 40)
+    print(f'Распределение классов:')
+    for label, count in label_counts.items():
+        percentage = (count / datasetLength) * 100
+        print(f'{label:<12}: | {count:>3} | {percentage:>5.1f}%')
+    print('-' * 40)
+    print(f'{'Итого':<12} | {datasetLength:>3} | 100.0%')
+
+# проверить наличие дубликатов
+def has_duplicates(dataset: List[Tuple[str, str]]) -> bool:
+    texts = [text for text, _ in dataset]
+    unique_texts = set(texts)
+    origin_length = len(texts)
+    unique_length = len(unique_texts)
+    return origin_length != unique_length
+
+# вывести дубликаты
+def print_has_duplicates(dataset: List[Tuple[str, str]], duplicate_cheker: Callable[[List[Tuple[str, str]]], bool]) -> None:
+    print('-' * 40)
+    print(f'Has duplicates: {duplicate_cheker(dataset)}')
+
+# сохранить файл.
+def save_in_csv(dataset: List[Tuple[str, str]], file_name: str) -> None:
+    corrected = add_csv_extension_if_not_exists(file_name)
+    remove_file_if_exists(corrected)
+    print('-' * 40)
+    print(f'writing dataset files in csv file: {corrected}')
+    with open(corrected, 'w', encoding='utf-8', newline='') as file:
+        writer = csv.writer(file)
+        writer.writerow(['text', 'label'])
+        writer.writerows(dataset)
+    print(f'data set has been written to csv file: {corrected}')
+    print('-' * 40)
+
+# удалить файл, если он уже существует.
+def remove_file_if_exists(file_name: str) -> None:
+    if os.path.exists(file_name):
+        print(f'file already exists {file_name}')
+        os.remove(file_name)
+        print('file has been removed')
+        return None
+    return None
+
+# добавить .csv extension в название файла, если его нет.
+def add_csv_extension_if_not_exists(file_name: str) -> str:
+    if not file_name.endswith('.csv'):
+        print(f'file {file_name} does not has .csv extension. Returning with .csv')
+        return file_name + '.csv'
+    return file_name
+
+
+
+
+
+
+
+
+
+
