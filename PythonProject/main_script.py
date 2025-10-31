@@ -85,6 +85,10 @@ def compute_metrics(eval_pred):
 def main():
     max_length = 256
 
+    print(f'cuda is available {torch.cuda.is_available()}')
+
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
     # данные
     dataset: list[tuple[str, str]] = create_engine_type_dataset()
     model_name = "ai-forever/ruBert-base"
@@ -117,8 +121,10 @@ def main():
         model_name,
         num_labels=len(labels),
         id2label=id_to_label,
-        label2id=label_to_id
+        label2id=label_to_id,
     )
+
+    model.to(device)
 
     batch_size = 16
     gradient_accumulation_steps = 2
@@ -169,22 +175,22 @@ def main():
     training_args = TrainingArguments(
         output_dir='./results',
         num_train_epochs=num_train_epochs,
-        learning_rate=1e-5, # попробовать 7e-06 или 8e-06
+        learning_rate=7e-6, # попробовать 7e-06 или 8e-06 | старый был 1e-5
         per_device_train_batch_size=batch_size,
         per_device_eval_batch_size=64,
         warmup_steps=warmup_steps,
         gradient_accumulation_steps=gradient_accumulation_steps,
         weight_decay=0.01,
         logging_dir='./logs',
-        logging_steps=100,  # Логировать чаще
+        logging_steps=100,
         eval_strategy="epoch",
         save_strategy="epoch",
         load_best_model_at_end=True,
-        metric_for_best_model="eval_f1",  # Оптимизируем по F1
+        metric_for_best_model="eval_f1",
         greater_is_better=True,
         fp16=True,
         dataloader_num_workers=4,
-        report_to=None,  # Отключить логгеры
+        report_to=None,
     )
 
     trainer = Trainer(

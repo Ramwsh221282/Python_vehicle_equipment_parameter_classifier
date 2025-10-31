@@ -1,0 +1,383 @@
+"Продам {machine}, {year}, {hours} м/ч. Цена: {price}."
+"Продам {brand} {model}. Год: {year}. Моточасы: {motochasi_value}. Двигатель: {engine_power} л.с., {engine_volume}. {state}. {price_value} руб."
+Продам {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {privod}. {price_value} руб.
+Отчёт по экологичности: {machine_type} {brand} {model} ({year}) соответствует нормам Евро-{euro_class}. Двигатель: {engine_desc}.
+"{machine}, {year} г.в., {hours} м/ч. {engine_desc}. {condition}. {extra}. Цена: {price}. Без посредников!"
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для лесозаготовки!"
+"Забирай — не греши! {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Грейдер {brand} {model} — состояние как новый. {year}, {engine_power} л.с., {motochasi_value} м/ч. {price_value} руб."
+"Продаю {brand} {model} ({les_type}). {year} года выпуска. Пробег: {probeg_value} {probeg}. Двигатель: {engine_power} л.с., {engine_volume}. Состояние: {state}. Цена: {price_value} руб."
+"Продаю {brand} {model} ({les_type}). Используется для {les_operation_type}. {year} года выпуска. Наработка: {motochasi_value} моточасов. Двигатель: {engine_power} л.с., {engine_volume}. Цена: {price_value} руб."
+Продам бульдозер {brand} {model}. {year} года. {engine_desc}. {hours} м/ч. {condition}. {extra}. {price}.
+Карта техобслуживания: {machine_type} {brand} {model} ({year}) — заменено масло в ДВС ({engine_desc}) на {motochasi_value} м/ч.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для рекламы!"
+Продам {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {hod_traktora}. {price_value} руб.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для нового проекта!Продаю {machine_type} {brand} {model}, {year} г.в. Двигатель: {engine_desc}. Наработка: {hours} м/ч. {condition}. Цена: {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Возможен обмен на недвижимость."
+"Техника стоит в крытом боксе. {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Продаю {machine} {year} года. {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}."
+"Продаю {brand} {model}, {year} г., {probeg_value} {probeg}, {motochasi_value} {motochasi}, движок {engine_power} л.с., {engine_volume}, {price_value} руб."
+"Техника в работе до сих пор — продаю из-за обновления парка. {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Только у нас: {machine} с двигателем {engine_desc}. {year}, {hours} м/ч. {condition}. {extra}. {price}."
+"Архивная справка: по состоянию на {archive_date}, в парке числился {machine_type} {brand} {model} ({year}), наработка — {motochasi_value} моточасов, владелец — {owner_org}."
+"Продаю {machine}, {year}, {engine_desc}, {hours} м/ч, {condition}. Цена: {price}."
+"Техника в норме. {machine}, {year} г., {engine_desc}, {hours} м/ч. {extra}. Цена: {price}."
+Собственник. {machine} {year}. {engine_desc}. {hours} м/ч. {condition}. {price}.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для модернизации!"
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Всё как надо!"
+"Техника в работе до сих пор. {machine}, {year}, {engine_desc}, {hours} м/ч. {condition}. {price}."
+Продаю {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {podveska_kabini}. {tip_kabini}. {price_value} руб.
+"Продаю — надоело платить налоги за простой. {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+Отчёт о списании: техника {machine_type} {brand} {model} ({year}) списана по износу. Итоговая наработка: {hours} м/ч. Причина: {write_off_reason}.
+"Доставка по РФ. {machine}, {engine_desc}, {year}, {hours} м/ч. {condition}. {extra}. {price}."
+Продаю {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {hod_traktora}. {price_value} руб.
+Техника {brand} {model} {year} г.в. {state}. Пробег: {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {korobka_peredach}. {price_value} руб.
+"Продам технику без торга — только серьёзным покупателям. {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Всё в рабочем состоянии!"
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Состояние — отличное!"
+Отчёт инспектора: техника {machine_type} {brand} {model} ({year}) соответствует требованиям. Двигатель {engine_desc} исправен. Наработка: {hours} м/ч. Рекомендовано: {recommendation}.
+Продаю {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {korobka_peredach}. {price_value} руб.
+Телематика: {machine_type} {brand} {model} (ID: {telematics_id}) зафиксировал {motochasi_value} м/ч на {date}. Двигатель: {engine_desc}. Температура масла: {oil_temp}°C.
+"Продаю {brand} {model} — без прикрас: {year}, {motochasi_value} м/ч, {engine_desc}. {state}. {price_value} руб."
+"Идеальный вариант для работы! {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. Возможен торг. {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. Цена: {price}."
+Продаю {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {pricep_type}. {loading_weight}. {price_value} руб.
+Продам {machine} {year} года. {engine_desc}. {hours} м/ч. Цена: {price}.
+"Продаю {brand} {model} ({les_type}). Используется в {les_area_type}. {year} года выпуска. Наработка: {motochasi_value} моточасов. Двигатель: {engine_power} л.с., {engine_volume}. Цена: {price_value} руб."
+Год выпуска: {year}. Машина: {machine}. Двигатель: {engine_desc}. Моточасы: {hours}. {condition}. {price}.
+Срочная продажа! {machine} {year} г.в. {engine_desc}. {condition}. {extra}. {price}. Срочно! Звонить до 21:00.
+"Продам {brand} {model} ({les_type}). {year} г., наработка: ~{motochasi_value} м/ч. Двигатель {engine_power} л.с., {engine_volume}. Цена: {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для тестирования!"
+Продаю {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {tip_tormozov}. {price_value} руб.
+"Продаю харвестер — не дымит, не стучит! {brand} {model}, {year}, {engine_desc}, {hours} м/ч. {price}."
+"Продаю {machine}, {year} г. Цена: {price}."
+"Собственник. {machine} {year} г. {engine_desc}. {condition}. {extra}. Гидравлика, стрела, кабина — всё в рабочем состоянии. {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для горных работ!"
+"Техника не простаивает — всегда в работе. {machine}, {year}, {engine_desc}, {hours} м/ч. {condition}. {extra}. {price}."
+Техника {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {privod}. {price_value} руб.
+"После капитального ремонта. {engine_desc}. {machine}, {hours} м/ч. {condition}. {price}. Возможна доставка. Срочно!"
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для установки!"
+"Продаю {extra}, {machine}, {year}, {engine_desc}. Цена: {price}."
+"Продаю {machine}, {year}, {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Возможен обмен."
+Не для гаража! {brand} {model} ({les_type}) {year} г.в. {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб.
+"Работает без нареканий с момента покупки. {brand} {model} ({les_type}), {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+"Акт приёмки-передачи: {machine_type} {brand} {model} ({year}), VIN {vin}, передан от {from_dept} к {to_dept}. Наработка: {hours} м/ч. Состояние: {condition}."
+"Запчасти в наличии. {machine} с двигателем {engine_desc}. {year}, {hours} м/ч. {condition}. {price}."
+Продается проверенная временем техника — {brand} {model} {les_type} {year} года. Моточасы: {motochasi_value}. {engine_desc}. {state}. {price_value} руб.
+Техника {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {pricep_type}. {loading_weight}. {price_value} руб.
+"Продаю {engine_desc}, {machine}. Цена: {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Документы в порядке."
+Комбайн лесной {brand} {model} ({year}). {engine_desc}. {hours} м/ч. {condition}. {extra}. {price}.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для нового проекта!"
+"Продаю {brand} {model} — работал только в {les_area_type}. {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Без посредников!"
+"Срочно продаю! {brand} {model} ({les_type}), {year} г.в. {motochasi_value} м/ч. Двигатель {engine_power} л.с. ({engine_volume}). {state}. Цена — {price_value} руб. Торг при осмотре!"
+"Продаю {machine}, {year} г.в., {engine_desc}. Цена: {price}."
+"После капремонта ДВС. {machine} {year}, {engine_desc}, {hours} м/ч. {condition}. {extra}. {price}."
+"Редкое предложение! {machine} в таком состоянии за {price}. {year}, {hours} м/ч. {condition}. {extra}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для демонстрации!"
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для обновления!"
+"Экскаватор {brand} {model} — работал в болотистой местности. {year}, {engine_desc}, {hours} м/ч. {condition}. {price}."
+"Продам {brand} {model} ({les_type}). Используется для {les_task_type}. {year} года выпуска. Наработка: {motochasi_value} моточасов. Двигатель: {engine_power} л.с., {engine_volume}. Цена: {price_value} руб."
+Не упусти! {machine} {year} года. Всего {hours} м/ч. {engine_desc}. {condition}. {price}.
+"Справочник моделей: {brand} {model} — тип техники: {machine_type}, год начала выпуска: {year_start}, двигатель: {engine_desc}, мощность: {engine_power} л.с."
+"Готов показать в работе! {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Продаю {machine}, {year}. Движок {engine_desc}. {hours} моточасов. {condition}. {price}."
+"Продаю {machine}, {year}, {engine_desc}. {hours} м/ч. {condition}. {extra}. {price}."
+"Продаю по причине обновления парка. {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Гарантия на двигатель! {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+Продам {machine}. {year} года выпуска. Наработка: {hours} моточасов. {engine_desc}. {condition}. {extra}. Цена: {price}. Торг уместен. Звоните: +7 (XXX) XXX-XX-XX.
+"{machine}, {year} г.в., ~{hours} м/ч. {engine_desc}. {condition}. {extra}. Цена: {price}."
+"Экскаватор-погрузчик {brand} {model}, {year}. Движок {engine_desc}. {hours} м/ч. {condition}. Подходит для лесных складов. {price}."
+"Техника {machine} {year} г., двигатель {engine_desc}. {hours} моточасов. {condition}. {extra}."
+Техника {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {vin}. {explluatacionnaya_massa}. {price_value} руб.
+"Все узлы в норме: ходовая, гидравлика, КПП. {machine}, {year}, {engine_desc}, {hours} м/ч. {condition}. {extra}. {price}."
+"Самосвал {brand} {model} — использовался в лесу. {year}, {probeg_value} км, {motochasi_value} м/ч. {engine_power} л.с. {price_value} руб."
+"Харвестер {brand} {model}, {year}. {engine_power} л.с. {engine_volume}. {motochasi_value} м/ч. {state}. {price_value} руб."
+"Только что прошёл диагностику! {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Продам технику — всё родное, ничего не перебиралось. {brand} {model}, {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+Запись в ремонтной книжке: {repair_date} — замена ТНВД на {machine_type} {brand} {model} ({year}). Двигатель: {engine_desc}. Пробег: {probeg_value} км.
+"Продам {brand} {model} ({les_type}). {year} года выпуска. Двигатель: {engine_power} л.с., {engine_volume}, {motochasi_value} м/ч. Цена: {price_value} руб."
+Продаю {machine} {year} года. Цена: {price}.
+"Можно оформить в лизинг. {machine}, {year}, {engine_desc}, {hours} м/ч. {condition}. {extra}. {price}."
+"Спецпредложение! {engine_desc} на {machine}. {year}, {hours} м/ч. {condition}. {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для показа!"
+Запись в системе учёта: техника {machine_type} (ID: {asset_id}) простаивала {downtime_days} дней в {month} {year} по причине: {downtime_reason}.
+"Без долгов и залогов. {machine} {year} г.в., {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для карьерных работ!"
+"Техника без сюрпризов под капотом. {brand} {model} ({les_type}), {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+Карточка учёта ГСМ: {machine_type} {brand} {model} ({year}) — норма расхода: {fuel_norm} л/м/ч. Факт: {fuel_actual} л/м/ч.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для коммунальных работ!"
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для выставки!"
+"Продаю {hours} м/ч, {engine_desc}, {machine}, {year}. Цена: {price}."
+Продаю {machine}. {year} года. {engine_desc}. {hours} м/ч. {condition}. {extra}. {price}.
+Продам {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {podveska_kabini}. {tip_kabini}. {price_value} руб.
+"Продается {machine} в отличном состоянии. {engine_desc}. Год: {year}, м/ч: {hours}. {extra}. {price}."
+"Продаю {brand} {model} ({les_type}). {year} года выпуска. Наработка: {motochasi_value} моточасов. Двигатель: {engine_power} л.с., {engine_volume}. Состояние: {state}. Цена: {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. {price}."
+Не для перепродажи! Продам {machine} {year} г. {engine_desc}. {hours} м/ч. {condition}. {extra}. Собственник. {price}.
+"Форвардер в отличном состоянии! {brand} {model}, {year}, {hours} м/ч. {engine_desc}. Подходит для работы в тайге. {price}."
+"Продаю {brand} {model} ({les_type}). Используется для {les_activity_type}. {year} года выпуска. Наработка: {motochasi_value} моточасов. Двигатель: {engine_power} л.с., {engine_volume}. Цена: {price_value} руб."
+"{machine} в наличии. {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. Звоните прямо сейчас!"
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Не требует ремонта!"
+"Продам {brand} {model} — без прикрас: {year}, {motochasi_value} м/ч, {engine_desc}. {state}. Цена: {price_value} руб."
+"Покупал за свои, езжу сам — не фирма. {brand} {model} ({les_type}), {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+"Двигатель: {engine_desc}. Машина: {machine}. Год: {year}, наработка: {hours}. {condition}."
+"Регистрационная запись в Гостехнадзоре: {machine_type} {brand} {model}, VIN {vin}, {year}, владелец: {owner_name}, дата постановки: {registration_date}."
+"Всё работает как часы! {brand} {model}, {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+Продам {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {vin}. {visota_vigruzki}. {price_value} руб.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Не для перепродажи."
+"Техническое описание: {machine_type} {brand} {model} предназначен для {les_task_type}. Оснащён двигателем {engine_desc}, мощностью {engine_power} л.с."
+Продам {machine} {year} г.в. Двигатель: {engine_desc}. {hours} м/ч. {condition}. {extra}. Цена: {price}. Торг уместен. Звоните: +7 (XXX) XXX-XX-XX.
+Новинка! {machine} {year} года с {engine_desc}. Всего {hours} м/ч. {condition}. {extra}. {price}.
+Фрезер для лесных дорог: {machine} {year}. {engine_desc}. {motochasi_value} м/ч. {condition}. {price}.
+Учёт ГСМ: за смену {machine_type} {brand} {model} ({year}) израсходовал {fuel_consumption} л топлива при наработке {hours} м/ч.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для тренировки!"
+"Документы в порядке, ПТС оригинал. {brand} {model} ({les_type}), {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+Лесовоз {brand} {model} ({les_type}) с пробегом {probeg_value} км и {motochasi_value} м/ч. {year}. {engine_power} л.с. {price_value} руб.
+Продам {machine} {year} года. Цена: {price}.
+Техника {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {vin}. {obyom_kovsha}. {price_value} руб.
+"Техника в отличном состоянии, без косяков! {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. Цена: {price}."
+"Техника для тех, кто знает толк. {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+Не упусти! {machine} {year} г. с двигателем {engine_desc}. Всего {hours} м/ч. {condition}. {extra}. Реальному покупателю — {price}.
+Сервисная запись №{service_ticket}: {machine_type} {brand} {model} ({year}) прошёл ТО. Двигатель: {engine_desc}. Моточасы на момент ТО: {motochasi_value}.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для пуска!"
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для стройки!"
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Собственник."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для карьера!"
+"Продаю {machine}, {year} г.в., {engine_desc}, {hours} м/ч. {condition}. Цена: {price}."
+"Всё как на фото (если бы фото было 😅). {brand} {model}, {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Только серьёзным покупателям."
+"Продам {brand} {model} ({les_type}). {year} года выпуска. Пробег: {probeg_value} {probeg}. Двигатель: {engine_power} л.с., {engine_volume}. Состояние: {state}. Цена: {price_value} руб."
+"Сертификат соответствия №{cert_number}: {machine_type} {brand} {model}, {year} г.в., двигатель {engine_power} л.с., {engine_volume}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для новой эры!"
+"Без посредников! Прям от владельца: {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Под ключ! {machine} {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Всё работает — проверено лично. {price}."
+Срочно продаю автокран {machine} {year} гоода. {engine_desc}. {hours} м/часов. {condition}. {price}.
+"Сравните: {engine_desc} vs аналоги — только у нас. {machine}, {year}, {hours} м/ч. {condition}."
+"Покупал для себя, но не пригодился. {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для нового бизнеса!"
+Продаю {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {vin}. {explluatacionnaya_massa}. {price_value} руб.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для транспорта!"
+Продается {machine}. Год: {year}. Двигатель: {engine_desc}. Моточасов: {hours}. {condition}. Торг. {price}.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для обновления парка!"
+"Цена снижена! {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. Быстро! {price}."
+"Только до конца месяца! {engine_desc} на {machine}, {year}, {hours} м/ч. {condition}. {extra}. {price}."
+"Техника {brand} {model} ({les_type}) в отличном состоянии. {year} год, наработка: {motochasi_value} моточасов. Двигатель: {engine_power} л.с., {engine_volume}. Цена: {price_value} руб."
+Продаю {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {vin}. {visota_vigruzki}. {price_value} руб.
+"Продаю {machine}, {year} г.в., движок {engine_desc}, ~{hours} м/ч. Цена: {price}."
+Техника {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {zadnyaya_podveska}. {price_value} руб.
+"Погрузчик вилочный {brand} {model}, {year}. {engine_desc}. {motochasi_value} моточасов. {state}. {price_value} руб."
+Лесовоз {brand} {model} ({les_type}) {year} гоода. Наработка: {hours} м/часов. Движок: {engine_desc}. Состояние — {condition}. Цена: {price}.
+"Двигатель: {engine_desc}. Машина: {machine}, {year}, {hours} м/ч. {condition}. {extra}. Цена: {price}."
+"Продам {machine} с двигателем {engine_desc}. Год выпуска {year}, моточасов: {hours}. {condition}. {extra}. {price}."
+"Продаю {engine_desc}, {machine}, {year}, {hours} м/ч. Цена: {price}."
+"Продаю {year} г.в., {machine}, {engine_desc}, {hours} м/ч. Цена: {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для фермы!"
+"Не битая, не крашеная. {machine}, {year}. {engine_desc}. {condition}. {extra}. {price}."
+"Продаю {machine} {year} года, {engine_desc}. Цена: {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для новой эпохи в жизни!"
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}."
+"Двигатель {engine_desc} — надежный, проверенный временем. Машина: {machine}, год: {year}. {condition}."
+Техника {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {podveska_kabini}. {tip_kabini}. {price_value} руб.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для нового дела!"
+"Продаю {brand} {model} ({les_type}). Год выпуска: {year}. Наработка: {motochasi_value} моточасов. Двигатель: {engine_power} л.с., {engine_volume}. {state}. Цена: {price_value} руб."
+"Харвестер {brand} {model} ({year}) — {motochasi_value} моточасов. {engine_power} л.с., {engine_volume}. {state}. {price_value} руб."
+"Продаю {machine}, {year} г.в., движок {engine_desc}. Цена: {price}."
+"Продаю трактор {brand} {model} для лесных работ. {year}, {engine_power} л.с., {motochasi_value} м/ч. {state}. {price_value} руб."
+"Продаю {machine}, {year} г., движок {engine_desc}. Цена: {price}."
+Продам {machine} {year} года. {engine_desc}. {hours} м/ч. {condition}. Цена: {price}.
+"Техосмотр №{inspection_id}: {machine_type} {brand} {model} ({year}) — тормоза: {tip_tormozov}, КПП: {korobka_peredach}, кабина: {tip_kabini}."
+"Продается {brand} {model} ({les_type}) {year} года. Пробег: {probeg_value} {probeg}. Двигатель: {engine_power} л.с., {engine_volume}. Состояние: {state}. Цена: {price_value} руб."
+"Трубоукладчик {machine}, {year} г.в. После ТО. {engine_desc}, {hours} м/ч. {condition}. {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для запуска!"
+"Продаю {machine}, {year} г., {engine_desc}. Цена: {price}."
+"Собственник. {machine} {year} г. {engine_desc}. {extra}. Гидравлика, стрела, кабина — всё в рабочем состоянии. {price}."
+"Идеал для тайги: {brand} {model}, {year}, {motochasi_value} м/ч. {engine_power} лс, {engine_volume}. {state}. {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Проверено — всё работает!"
+"Продаю {brand} {model} ({les_type}). {year} года выпуска, {motochasi_value} моточасов. Двигатель {engine_power} л.с., {engine_volume}. Цена: {price_value} руб."
+"Не ржавый гаражный экземпляр, а боевая единица! {brand} {model}, {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для новой работы!"
+Продаю {machine}. {year} г.в. {engine_desc}. {hours} м/ч. {condition}. {extra}. {price}.
+"Посетите нас на выставке! {machine} с {engine_desc}. {year}, {hours} м/ч. {condition}. {extra}. {price}."
+Продаю {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {vin}. {visota_podiema}. {price_value} руб.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для эксплуатации!"
+"Продам {machine}, {year}. Цена: {price}."
+"Техника после капремонта двигателя. {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Для тех, кто не хочет возиться с ремонтом: {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Каток {brand} {model}, {year}. {engine_desc}. {hours} м/ч. {condition}. Подходит для уплотнения грунта после вырубки. {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для проверки!"
+Продаю {machine} {year} года. {engine_desc}. {hours} м/ч. {condition}. {extra}. Цена: {price}.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для подготовки!"
+"Продаю {machine}, {year} г., движок {engine_desc}, ~{hours} м/ч. {condition}. {extra}. Цена: {price}."
+"Продаю {machine}, {year}, {engine_desc}, {hours} м/ч, {extra}. Цена: {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для презентаций!"
+Паспорт техники: {machine_type} {brand} {model}. Год выпуска: {year}. Двигатель: {engine_desc}. Макс. эксплуатационная масса: {explluatacionnaya_massa}.
+"Продаю {condition}, {machine}, {year}, {engine_desc}. Цена: {price}."
+Продаю {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {vin}. {massa}. {price_value} руб.
+"Продаю {machine} {year} года, {engine_desc}, {hours} м/ч. Цена: {price}."
+"Продам {machine}, {engine_desc}, {year}, {hours} м/ч. Цена: {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Без долгов и обременений."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для новой эпохи в работе!"
+"Продаю {brand} {model} ({les_type}). {year} года выпуска. {engine_power} л.с., {engine_volume}, {motochasi_value} моточасов. Цена: {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для ремонта дорог!"
+"Техника в отличном техсостоянии, все узлы проверены. {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+Оценочное заключение: {machine_type} {brand} {model} ({year}) с двигателем {engine_desc} и наработкой {motochasi_value} м/ч. Рыночная стоимость: {price_value} руб.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для проката!"
+Техника {brand} {model} {year} г.в. {state}. {motochasi_value} моточасов. {engine_desc}. {vin}. {price_value} руб.
+Продам {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {vin}. {obyom_kovsha}. {price_value} руб.
+"В наличии: {machine} {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. Звоните прямо сейчас!"
+"Продам без сантиметровой пыли в кабине! {brand} {model}, {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+"Погрузчик фронтальный {brand} {model}, {year}. {engine_power} л.с., {hours} м/ч. {condition}. {price_value} руб."
+Лог поломок: {date} — у {machine_type} {brand} {model} ({year}) зафиксирован сбой в гидравлике. Наработка на момент: {motochasi_value} м/ч. Причина: {failure_cause}.
+"Собственник. {brand} {model} ({les_type}) {year} года выпуска. Наработка: {motochasi_value} моточасов. Двигатель: {engine_power} л.с., {engine_volume}. Состояние: {state}. Цена: {price_value} руб."
+Продаю {machine} {year} г. Двигатель {engine_desc}. Наработка {hours} м/ч. {condition}. {price}.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для новой эпохи в проекте!"
+"Продаю {brand} {model}, {year} г., {probeg_value} {probeg}, {motochasi_value} {motochasi}, движок {engine_power} л.с., {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Только до конца месяца."
+"Двигатель {engine_desc} прошел ТО. {machine} {year} года, наработка {hours} м/ч. {condition}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для промышленности!"
+Продаю {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {privod}. {price_value} руб.
+"Техника с характером, но без косяков. {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Пишите в телеграм."
+Собственник. {brand} {model} {year} г.в. {state}. Пробег {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {korobka_peredach}. Цена: {price_value} руб.
+"Продам {brand} {model}, {year} г., {probeg_value} {probeg}, {motochasi_value} {motochasi}, движок {engine_power} л.с., {engine_volume}, {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для грузоперевозок!"
+"Лесовоз КАМАЗ {model}, {year}. Движок {engine_desc}. Пробег: {probeg_value} км. {condition}. {price}."
+"Продаю {machine} {year} года, {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}."
+Продаю {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {vin}. {obyom_kovsha}. {price_value} руб.
+Техника {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {vin}. {massa}. {price_value} руб.
+"После капитального ремонта. {machine}, {engine_desc}. {year}, {hours} м/ч. {condition}. {extra}. {price}."
+"Экскаватор-погрузчик {brand} {model}, {year}. Движок {engine_desc}, {hours} м/ч. {condition}. {price}."
+"Продается {brand} {model} ({les_type}) — работал в {les_work_site}. {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+"Продам {brand} {model}, {year} г., {probeg_value} {probeg}, {motochasi_value} {motochasi}, движок {engine_power} л.с., {price_value} руб."
+"Всё живое — работает! {brand} {model} ({les_type}), {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+"Продам {brand} {model} ({les_type}). {year} года выпуска. Наработка: {motochasi_value} моточасов. Двигатель: {engine_power} л.с., {engine_volume}. Состояние: {state}. Цена: {price_value} руб."
+"Капитальный ремонт. {engine_desc} на {machine}. {year}, {hours} м/ч. {condition}. {extra}. {price}."
+"Техника обслуживалась строго по регламенту. {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+Техника {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {vin}. {visota_podiema}. {price_value} руб.
+Статистика парка: средняя наработка {machine_type} в {year} году — {avg_hours} м/ч. Наиболее распространённый двигатель: {engine_desc}.
+"Продаю {machine} {year} года, {engine_desc}, {hours} м/ч. {condition}. Цена: {price}."
+Продам {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {pricep_type}. {loading_weight}. {price_value} руб.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для строительства!"
+Лесная техника: {brand} {model} ({les_type}). {year}. {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб.
+"Продаю {machine}, {year} г., движок {engine_desc}, {hours} м/ч. Цена: {price}."
+Продам {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {fuel_tank_capacity}. {price_value} руб.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Без торга!"
+"Продаю {machine}, {year}, {engine_desc}, {hours} м/ч, {condition}, {extra}. Цена: {price}."
+"Для тех, кто ценит надёжность: {machine} {year} года. {engine_desc}. {hours} м/ч. {condition}. {extra}. {price}."
+Продам {machine}. {year} года выпуска. Двигатель: {engine_desc}. Наработка: {hours} моточасов. {condition}. {price}.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для армии!"
+"Техника в парке: {machine_type} — {brand} {model}, {year} г.в., VIN: {vin}, текущая наработка — {hours} моточасов. Ответственный: {operator_name}."
+Техника {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {vin}. {visota_vigruzki}. {price_value} руб.
+"Продам срочно — переезжаю. {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Продается {machine} в рабочем состоянии. Год: {year}, моточасов: {hours}. Двигатель: {engine_desc}. {condition}. {extra}. Звоните — отвечу на все вопросы!"
+Продам {machine} {year} года. {engine_desc}. Цена: {price}.
+Срочно! Продается грейдер {machine} {year} г.в. {engine_desc}. {hours} м/ч. {condition}. Цена снижена: {price}.
+"Продам {brand} {model} ({les_type}). Работал на {les_work_site}. {year} года выпуска. Наработка: {motochasi_value} моточасов. Двигатель: {engine_power} л.с., {engine_volume}. Цена: {price_value} руб."
+В наличии {machine}. Год выпуска: {year}. Моточасы: {hours}. Установлен {engine_desc}. {condition}. {extra}. Собственник. {price}.
+"Продам {brand} {model} ({les_type}). {year} года выпуска. Наработка: {motochasi_value} м/ч. Двигатель: {engine_power} л.с., {engine_volume}. Цена: {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для настройки!"
+"Продам {brand} {model} ({les_type}). Используется для {les_work_type}. {year} года выпуска. Наработка: {motochasi_value} моточасов. Двигатель: {engine_power} л.с., {engine_volume}. Цена: {price_value} руб."
+Продаю {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {fuel_tank_capacity}. {price_value} руб.
+Продам {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {vin}. {massa}. {price_value} руб.
+"Продаю {machine}, {year}, {engine_desc}. Цена: {price}."
+"Мини-погрузчик {brand} {model} с ковшом и гидромолотом. {year}, {engine_desc}, {motochasi_value} м/ч. {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для ремонта техники!"
+"Надёжный помощник в лесу: {brand} {model}, {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+Данные мониторинга: {machine_type} {brand} {model} находился в зоне {les_area_type} с {start_date} по {end_date}. Средняя наработка в сутки: {avg_hours_per_day} м/ч.
+"Аренда {machine}. {engine_desc}, {year}, {hours} м/ч. {condition}. {extra}. Цена: {price}."
+"Продаю {machine} {year} г.в., движок {engine_desc}, наработка {hours} м/ч. {condition}. {extra}. {price}."
+Продам {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {vin}. {visota_podiema}. {price_value} руб.
+Продаю {machine}. Цена: {price}.
+"Автогрейдер {brand} {model} ({year}). {engine_power} л.с., {engine_volume}. {motochasi_value} м/ч. {state}. {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для сельхозработ!"
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Цена снижена!"
+"Продаю трактор {brand} {model} — идеален для вывозки хлыстов. {year}, {engine_desc}, {motochasi_value} м/ч. {price}."
+"Для аренды или покупки. {machine}, {year}, {engine_desc}, {hours} м/ч. {condition}. {extra}. {price}."
+Продаю {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {zadnyaya_podveska}. {price_value} руб.
+"Лучше один раз увидеть! {brand} {model} ({les_type}), {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для обслуживания!"
+"Продаю {brand} {model}, {year} г., ~{probeg_value} {probeg}, {motochasi_value} {motochasi}, движок {engine_power} л.с., {engine_volume}, {korobka_peredach}, {price_value} руб."
+Лог перемещений: {timestamp} — {machine_type} {brand} {model} перемещён из {location_from} в {location_to}. Наработка на момент: {motochasi_value} м/ч.
+"Продаю {engine_desc}, {machine}, {year}. Цена: {price}."
+"Услуги по эксплуатации {machine} с двигателем {engine_desc}. {year}, {hours} м/ч. {condition}. Подробности: +7 (XXX) XXX-XX-XX."
+Журнал оператора: {date} — работал на {machine_type} {brand} {model} ({year}). Выполнено: {task_description}. Наработка: +{hours_delta} м/ч.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для новой жизни!"
+Продам {machine} {year} года. Движок: {engine_desc}. Наработка: {hours} м/ч. {condition}. {price}.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. Цена: {price}."
+"Мини-погрузчик {brand} {model}, {year}. Всего {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+"Продаю {brand} {model} ({les_type}). {year} года выпуска. Двигатель: {engine_power} л.с., {engine_volume}, {motochasi_value} моточасов. Цена: {price_value} руб."
+"Техника в отличном состоянии. {machine}, {year}. {engine_desc}. {extra}. Не битая, не крашеная. Один владелец. {price}. Контакт: +7 (XXX) XXX-XX-XX."
+"Продаю {condition}, {extra}, {machine}, {year}, {engine_desc}. Цена: {price}."
+"Архивная карточка: {machine_type} «{brand} {model}» (зав. №{serial_number}), выпущен в {year}. Последняя инспекция: {inspection_date}. Состояние: {state}."
+"Техника не для гаража — для настоящей работы! {brand} {model} {les_type}, {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+"Состояние — как с конвейера (ну почти 😊). {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для аренды!"
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Срочно!"
+"Продаю {machine}, {year} г.в., {engine_desc}, {hours} м/ч. Цена: {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Работает исправно!"
+"Продаю {machine}, {year} г.в. Цена: {price}."
+Продам {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {tip_tormozov}. {price_value} руб.
+"Продаю {brand} {model} ({les_type}). {year} года выпуска. {motochasi_value} моточасов. Двигатель: {engine_power} л.с., {engine_volume}. Цена: {price_value} руб."
+"Не упусти! Отличная техника: {machine}, {year}, всего {hours} моточасов. {engine_desc}. В идеале! {condition}. {extra}. {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Звонить с 9 до 20. +7 (XXX) XXX-XX-XX."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для новой эпохи в бизнесе!"
+"Из Европы, но с русской документацией. {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+Журнал учёта: {date} — {machine_type} {brand} {model} ({year}) выведен на линию. Начальная наработка: {hours_start} м/ч. Конечная: {hours_end} м/ч.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для ремонта!"
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для замены!"
+"Продам {brand} {model}. {state}. {year} г.в. {probeg_value} {probeg}. {engine_power} л.с., {engine_volume}. {motochasi_value} {motochasi}. {korobka_peredach}. {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Возможен лизинг."
+"Продается {brand} {model} {year} г.в. Состояние: {state}. Пробег: {probeg_value} {probeg}. Двигатель: {engine_power} л.с., {engine_volume}. {motochasi_value} {motochasi}. {korobka_peredach}. Цена: {price_value} руб."
+Инвентарный номер: {inventory_id}. Тип: {machine_type}. Модель: {brand} {model}. Год выпуска: {year}. Наработка: {hours} м/ч. Состояние: {condition}.
+Без аварий. {machine} {year} года. {engine_desc}. {hours} м/ч. {condition}. {extra}. {price}.
+"База данных техники: запись #{record_id} — тип: {machine_type}, бренд: {brand}, модель: {model}, год: {year}, объём ДВС: {engine_volume}, мощность: {engine_power} л.с."
+"Продаю {machine}, {year}, {engine_desc}, {hours} м/ч. Цена: {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}......."
+"После полного ТО. {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. Готов к работе сразу после покупки. {price}."
+"Техника {brand} {model} ({les_type}) {year} года выпуска. Наработка: {motochasi_value} моточасов. Двигатель: {engine_power} л.с., {engine_volume}. Состояние: {state}. Цена: {price_value} руб."
+"Автокран {brand} {model} — работал на стройке, не в лесу. {year}, {hours} м/ч. {engine_desc}. {condition}. {price}."
+"Продаю комбайн — не китай! {brand} {model}, {year}, {engine_desc}, {hours} м/ч. {condition}. {price}."
+"Продам {brand} {model} ({les_type}). {year} года выпуска. {motochasi_value} м/ч. Двигатель: {engine_power} л.с., {engine_volume}. Цена: {price_value} руб."
+"Продам {brand} {model} {les_type}. {year} года выпуска. Наработка: {motochasi_value} моточасов. Двигатель: {engine_power} л.с., {engine_volume}. {state}. Цена: {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для новой идеи!"
+"Техника {brand} {model} в отличном состоянии. {year} года, {probeg_value} {probeg}, {motochasi_value} {motochasi}. Двигатель {engine_power} л.с., {engine_volume}. {korobka_peredach}. {price_value} руб."
+"Продам {machine}, {engine_desc}. Цена: {price}."
+Продам {machine}. Цена: {price}.
+Срочно! Продам {machine} {year}. Моточасы: ~{hours}. Двигатель {engine_desc} (возмлжно Cummins). {extra}. {price}.
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для аренда!"
+"Не гниёт в гараже — работает каждый день! {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Продаю {machine}, {year}. Цена: {price}."
+Продам форвардер {brand} {model}. {year} г.в. {engine_desc}. {motochasi_value} моточасов. {state}. {price_value} руб.
+"Продам {machine}, {engine_desc}, {year}, {hours} м/ч. {condition}. {extra}. Цена: {price}."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для новой эпохи!"
+"Идеал для работы в тайге! {brand} {model} ({les_type}), {year}. {motochasi_value} моточасов. {engine_desc}. {state}. {price_value} руб."
+На ходу! {machine} {year} года. {engine_desc}. {hours} м/ч. {condition}. {extra}. Забирайте — работает отлично. {price}.
+Данные GPS-трекера: {machine_type} {brand} {model} находился в районе {coordinates} на {date}. Средняя скорость: {avg_speed} км/ч. Наработка: {hours} м/ч.
+"Продам технику — не греет, не дымит, не стучит. {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Продаю {machine}, {year} г.в., движок {engine_desc}, ~{hours} м/ч. {condition}. {extra}. Цена: {price}."
+"Продам {brand} {model} — работал в лесу, но ухожен. {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Возможна доставка."
+Продам {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {vin}. {explluatacionnaya_massa}. {price_value} руб.
+"{brand} {model} — не КАМАЗз, а настоящий лесовоз! {year}, {motochasi_value} моточасов. {engine_desc}. {state}. {price_value} руб."
+"Продам — не жалко, но и не дёшево. {brand} {model}, {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+"Нет времени на базар — цена фикс. {brand} {model}, {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Торг уместен."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Срочная продажа."
+Техника {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {tip_tormozov}. {price_value} руб.
+Продаю {machine} {year} года выпуска. Двигатель: {engine_desc}. Наработка {hours} моточасов. {condition}. {extra}. Цена: {price}. Звоните: +7 (XXX) XXX-XX-XX.
+Продам {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {zadnyaya_podveska}. {price_value} руб.
+"Не китай! Настоящая {brand} техника. {model}, {year}, {motochasi_value} м/ч. {engine_desc}. {state}. {price_value} руб."
+"Работал только на одном объекте. {machine} {year} г., {hours} м/ч. {engine_desc}. {condition}. {extra}. Документы чистые. {price}."
+"{engine_desc} — установлен на {machine}. Работает исправно. {year}, {hours} м/ч. {condition}. {extra}."
+Техника {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}. {motochasi_value} {motochasi}. {engine_power} л.с. {engine_volume}. {hod_traktora}. {price_value} руб.
+"Только что прошёл диагностику. {machine}, {year}, {hours} м/ч. {engine_desc}. {condition}. {extra}. {price}."
+"Продам {machine}, {engine_desc}, {year}. Цена: {price}."
+"Продам {brand} {model} {year} г.в. {state}. {probeg_value} {probeg}, {motochasi_value} {motochasi}. Двигатель: {engine_power} л.с., {engine_volume}. {fuel_tank_capacity}. {korobka_peredach}. {price_value} руб."
+"Продаю {machine}, {year} г., {engine_desc}, {hours} м/ч. {condition}. {extra}. Цена: {price}. Подходит для спецслужб!"
+Бульдозер {brand} {model} ({year}). {engine_desc}. {hours} м/ч. {condition}. {extra}. {price}.
+"После ТО. {machine} {year}, {engine_desc}, {hours} м/ч. {condition}. {extra}. {price}."
+Продам {machine} с пробегом {probeg_value} {probeg} и {motochasi_value} м/ч. {year}. {engine_power} л.с. {engine_volume}. {price_value} руб.
+Срочно! Продам {machine} {year} года. Наработка всего {hours} м/ч. {engine_desc} — работает без перебоев. {condition}. {extra}. {price}.
